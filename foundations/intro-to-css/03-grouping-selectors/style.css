@@ -1,0 +1,19 @@
+.meow, .uwu {
+
+            font-size: 28px;
+            font-family: Helvetica, 'Times New Roman', 'sans-serif';
+
+}
+
+
+.meow {
+     
+      background-color: hsl(0, 0%, 0%);
+      color: rgba(12, 180, 12, 0.8);
+}
+
+
+.uwu {
+      
+      background-color: #ffff00;
+}
